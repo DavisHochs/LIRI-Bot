@@ -28,7 +28,7 @@ Here is an example of the movie functionality.
 Here is an example of the reading a text file functionality.
 ```
 
-![](liri do-what-it-says.gif)
+![](liri-do-what-it-says.gif)
 
 
 ## Authors
