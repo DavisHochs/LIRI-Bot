@@ -10,19 +10,19 @@ Bandsintown for concert information, or read a txt file for search type and sear
 Here is an example of the spotify functionality.
 ```
 
-![](liri spotify-this.gif)
+![](liri-spotify-this.gif)
 
 ```
 Here is an example of the concert functionality.
 ```
 
-![](liri concert-this.gif)
+![](liri-concert-this.gif)
 
 ```
 Here is an example of the movie functionality.
 ```
 
-![](liri movie-this.gif)
+![](liri-movie-this.gif)
 
 ```
 Here is an example of the reading a text file functionality.
